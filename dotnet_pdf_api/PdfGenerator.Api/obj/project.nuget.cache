@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEs8SVivBDs=",
+  "success": true,
+  "projectFilePath": "/Users/vaibhav/Desktop/Riddhi/IronPDF/Onboarding_Package/dotnet_pdf_api/PdfGenerator.Api/PdfGenerator.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/vaibhav/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/vaibhav/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
